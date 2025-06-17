@@ -9,3 +9,9 @@
 
 - https://www.makesense.ai/
 - https://www.youtube.com/watch?v=ZwEAZVgjB-4
+
+### Class Ordering
+
+- 0 : car
+- 1 : bike
+- 2 : truck
