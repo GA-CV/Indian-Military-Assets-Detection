@@ -8,3 +8,4 @@
 ### Annotation Tool
 
 - https://www.makesense.ai/
+- https://www.youtube.com/watch?v=ZwEAZVgjB-4
