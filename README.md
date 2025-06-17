@@ -1,4 +1,4 @@
-# Indian-Military-Assets-Detection
+# Sample-Image-Annotation & YOLO Training Pipeline
 
 ### Reference Videos for YOLO Training
 - https://www.youtube.com/watch?v=ojMzheIwXa0
